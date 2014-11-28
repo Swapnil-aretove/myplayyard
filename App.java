@@ -1,8 +1,8 @@
 public class App{
 
-public static void main(String [] args)
-{
-System.out.println("This is git testing");
-}
+	public static void main(String [] args)
+	{
+		System.out.println("This is git testing");
+	}
 
 }
